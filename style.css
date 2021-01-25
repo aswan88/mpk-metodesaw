@@ -1,0 +1,22 @@
+*{padding: 0px; margin: 0px;}
+
+html,body{height: 100%;} 
+
+header {background-color: #4f7942; font-family: verdana, arial, arial, black;}
+header h1 {color: #d4d0d0; padding: 30px; text-align: center;}
+header p {color: #d4d0d0; padding: 20px; padding-top: 0px; text-align: center;}
+
+menu {background-color: #3d3d3b; height: 60px;}
+menu ul {list-style: none; line-height: 50px;}
+menu ul li {float: left; width: 15%; text-align: center;}
+menu ul li a {color: white; text-decoration: none; font-family: verdana; display: block;}
+menu ul li a:hover {background-color: #ffea66; color: black;}
+
+
+article {background-color: #d4d0d0;}
+article h2 {font-family: verdana; font-style: italic; padding: 10px; font-size: 30px; padding-left: 320px;}
+article img {float: left; width: 350px;margin: 0px 10px 0px 10px;}
+article p { padding-bottom: 20px; font-size: 18px; text-align: justify; padding-left: 20px; padding-right: 20px;}
+
+footer {background-color: #4f7942; padding: 20px; }
+footer  p {text-align: center; color: #d4d0d0; font-size: 12px;}
